@@ -1,1 +1,1 @@
-# PM-Project-Magazin
+# PM-ProjectMagazin
